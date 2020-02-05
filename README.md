@@ -5,3 +5,6 @@
 # npm install --save
 - devDependencies
 - 実行時に必要なモジュール
+
+# npm scriptsを利用する理由
+- プロジェクトで使うコメントを明示できるため
